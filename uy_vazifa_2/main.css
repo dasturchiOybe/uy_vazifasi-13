@@ -1,0 +1,84 @@
+.rasm:hover{
+    border: 1px solid transparent;
+    width: 300px;
+    height: 60px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background: gold;
+    font-size: 50px;
+}
+
+.rang{
+    width: 15px;
+    height: 60px;
+    background: yellowgreen;
+    display: inline-block;
+}
+.rang1{
+    width: 15px;
+    height: 60px;
+    background: gold;
+    display: inline-block;
+}
+.rang2{
+    width: 15px;
+    height: 60px;
+    background: aqua;
+    display: inline-block;
+    }
+h3{
+    margin-top: 0;
+    display: inline-block;
+}
+.musiqa:hover{
+    border: 1px solid transparent;
+    width: 300px;
+    height: 60px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 50px;
+    background: yellowgreen;
+}
+.fayl:hover{
+    border: 1px solid transparent;
+    width: 300px;
+    height: 60px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background: aqua;
+    font-size: 50px;
+}
+.rasm{
+        border: 1px solid red;
+        width: 300px;
+        height: 60px;
+        border-radius: 5px;
+        margin-bottom: 10px;
+        font-size: 45px;
+    /*    padding-left: 30px;*/
+        display: inline-flex;
+    
+}
+.musiqa{
+    
+    border: 1px solid red;
+    width: 300px;
+    height: 60px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 45px;
+/*    padding-left: 30px;*/
+    display: inline-flex;
+
+}
+.fayl{
+    
+    border: 1px solid red;
+    width: 300px;
+    height: 60px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 45px;
+/*    padding-left: 30px;*/
+    display: inline-flex;
+}
